@@ -1,14 +1,8 @@
-NGA-CLIENT-VER-OPEN-SOURCE
+NGA-CLIENT-VER-OPEN-SOURCE-S1
 ==========================
 
-NGA客户端开源版代码仓库
+NGA瀹㈡埛绔紑婧愮増with S1 楹诲皢鑴歌〃鎯呭寘
 
-可直接导入Android Studio。
-
-- - -
-更新内容去下面链接找
-- - -
-<https://play.google.com/store/apps/details?id=gov.anzong.androidnga><br>
-The APP in Google Play Based on our project!
-
+涓�鍒囦唬鐮侀棶棰樹互涓婃父涓哄噯锛屼粎娣诲姞楹诲皢鑴歌〃鎯呭寘
+https://github.com/Justwen/NGA-CLIENT-VER-OPEN-SOURCE
 
